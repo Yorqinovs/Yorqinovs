@@ -11,7 +11,7 @@ Yorqinovs/Yorqinovs is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)" width="100"/>
 </div>
 
 <div id="header" align="center">
