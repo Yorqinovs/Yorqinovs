@@ -4,6 +4,17 @@ Yorqinovs/Yorqinovs is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
+  <h1>Hey I'm Sunnatillo Yorqinov</h1>
+     <h2>👀 I’m interested in to develop amazing websites</h2>
+     <h2>🌱 I’m currently learning JavaScript & ReactJs</h2>
+     <h2>📫 How to reach me:
+          Phone: +998946265578
+          Mail: sunnatilloyorqinov2830@gmail.com</h2>
+     <h1>💞️ Always Just Smile :)</h1>
+     
+</div>
+
+<div id="header" align="center">
      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ppODQ5MjRzbDJoMm4xZDl1NWhrb2tteTU0eXVlNmxsM21oc25uMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9ePxTZc0BkspSisd3/giphy.gif" width="900"/>
 </div>
 
