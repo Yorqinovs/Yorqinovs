@@ -19,17 +19,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="header" align="center">
-  <h1>Hey I'm Sunnatillo Yorqinov</h1>
-     <h2>👀 I’m interested in to develop amazing websites</h2>
-     <h2>🌱 I’m currently learning JavaScript & ReactJs</h2>
-     <h2>📫 How to reach me:
-          Phone: +998946265578
-          Mail: sunnatilloyorqinov2830@gmail.com</h2>
-     <h1>💞️ Always Just Smile :)</h1>
-     
-</div>
-
-<div id="header" align="center">
 <div id="badges">
   <a href="https://t.me/Greatiwill_28_30">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
