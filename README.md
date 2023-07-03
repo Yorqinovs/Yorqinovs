@@ -16,7 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
   <h1>Hey I'm Sunnatillo Yorqinov</h1>
-     <h2>I’m interested in to develop amazing websites</h2>
+     <h2>👀 I’m interested in to develop amazing websites</h2>
+     <h2>I’m currently learning JavaScript & ReactJs</h2>
+     <h2>I📫 How to reach me:
+          Phone: +998946265578
+          Mail: sunnatilloyorqinov2830@gmail.com</h2>
+     
 </div>
 
 <div id="header" align="center">
